@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- Highlighted Achievement Block -->
 <blockquote align="center" style="background:#f8f0ff; border-left: 6px solid #6f42c1; padding: 1em 1.5em; margin: 2em 0; color: #2d2d2d;">
-  <strong>🚀 Achievement Unlocked:</strong>  
+  <strong>🚀 Achievement Unlocked on **Aug 1, 2025**:</strong>  
   <br>
   Successfully completed the <b>Vibe Coding with Cursor AI</b> program by <a href="https://www.coursera.org/learn/vibe-coding-with-cursor-ai" target="_blank" rel="noopener noreferrer">Scrimba</a> on <b>Coursera</b>.
   <br>
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 <!-- Highlighted Achievement Block -->
 <blockquote align="center" style="background:#f8f0ff; border-left: 6px solid #6f42c1; padding: 1em 1.5em; margin: 2em 0; color: #2d2d2d;">
-  <strong>🚀 Achievement Unlocked:</strong>  
+  <strong>🚀 Achievement Unlocked **Aug 1, 2025**:</strong>  
   <br>
   Successfully completed the <b>Vibe Coding with GitHub Copilot</b> program by <a href="https://www.coursera.org/learn/vibe-coding-github-copilot" target="_blank" rel="noopener noreferrer">Scrimba</a> on <b>Coursera</b>.
   <br>
