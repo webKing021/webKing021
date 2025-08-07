@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 <br>
 
 <a href="https://coursera.org/share/91" target="_blank">
-  <img src="https://your-certificate-preview-image-url" alt="Certificate Preview" width="400"/>
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HVODVNW3R08X/CERTIFICATE_LANDING_PAGE~HVODVNW3R08X.jpeg" alt="Certificate Preview" width="400"/>
 </a>
 
 </div>
 
 **Vibe Coding with Cursor AI by Scrimba**  
-[View Certificate](https://coursera.org/share/91)
+[View Certificate](https://coursera.org/share/914692a5df14ae01560225521ade56f1)
