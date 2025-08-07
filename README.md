@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <a href="https://coursera.org/share/914692a5df14ae01560225521ade56f1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20Official%20Certificate-6f42c1?style=for-the-badge&logo=Coursera&logoColor=white&labelColor=2d2d2d" alt="View Certificate Badge"/>
   </a>
-  <a href="https://scrimba.com/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.coursera.org/learn/vibe-coding-with-cursor-ai" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Powered%20by-Scrimba-ff5fa2?style=for-the-badge&logo=Scrimba&logoColor=white" alt="Scrimba Badge"/>
   </a>
 </p>
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <blockquote align="center" style="background:#f8f0ff; border-left: 6px solid #6f42c1; padding: 1em 1.5em; margin: 2em 0; color: #2d2d2d;">
   <strong>🚀 Achievement Unlocked:</strong>  
   <br>
-  Successfully completed the <b>Vibe Coding with Cursor AI</b> program by <a href="https://scrimba.com/" target="_blank" rel="noopener noreferrer">Scrimba</a> on <b>Coursera</b>.
+  Successfully completed the <b>Vibe Coding with Cursor AI</b> program by <a href="https://www.coursera.org/learn/vibe-coding-with-cursor-ai" target="_blank" rel="noopener noreferrer">Scrimba</a> on <b>Coursera</b>.
   <br>
   <em>Level up your coding skills — join the vibe!</em>
 </blockquote>
