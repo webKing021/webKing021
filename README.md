@@ -15,6 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Certificates & Achievements
+## 🎓 Certificates & Achievements
 
-- [Vibe Coding with Cursor AI by **Scrimba**]([link-to-certificate](https://coursera.org/share/914692a5df14ae01560225521ade56f1))
+<div align="center">
+
+<a href="https://coursera.org/share/91" target="_blank">
+  <img src="https://img.shields.io/badge/Vibe%20Coding%20with%20Cursor%20AI-Scrimba-blueviolet?style=for-the-badge&logo=Coursera&logoColor=white" alt="Vibe Coding with Cursor AI by Scrimba" />
+</a>
+
+<br>
+
+<a href="https://coursera.org/share/91" target="_blank">
+  <img src="https://your-certificate-preview-image-url" alt="Certificate Preview" width="400"/>
+</a>
+
+</div>
+
+**Vibe Coding with Cursor AI by Scrimba**  
+[View Certificate](https://coursera.org/share/91)
