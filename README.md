@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Certificates & Achievements
+
+- [Vibe Coding with Cursor AI by **Scrimba**]([link-to-certificate](https://coursera.org/share/914692a5df14ae01560225521ade56f1))
