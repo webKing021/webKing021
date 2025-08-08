@@ -67,17 +67,6 @@
 
 ---
 
-### 🗄️ Introduction to Relational Databases (RDBMS)
-**Coursera • IBM** | *March 5, 2024* | **15 hours** | **Grade: 88.65%**
-
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Y4HB7QQLHCZ6/CERTIFICATE_LANDING_PAGE~Y4HB7QQLHCZ6.jpeg" width="500" alt="IBM RDBMS Certificate"/>
-
-**Skills:** Relational Database Management Systems, Database Design, SQL Fundamentals, Data Modeling, Database Administration
-
-[🔗 View Certificate](https://coursera.org/share/35397bb989c5620795f87d1e48337938) | [📖 Course Info](https://www.coursera.org/learn/introduction-to-relational-databases)
-
----
-
 ### 🌐 Mastering Laravel Framework and PHP
 **Coursera • Board Infinity** | *January 31, 2025* | **15 hours** | **Grade: 96.49%**
 
@@ -199,14 +188,14 @@
 
 ---
 
-### 📝 Google Docs
-**Coursera • Google Cloud** | *March 5, 2024* | **2 hours** | **Grade: 100%**
+### 🔀 Introduction to Git and GitHub
+**Coursera • Google** | *March 10, 2024* | **20 hours** | **Grade: 90%**
 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~52QPNZVACSAM/CERTIFICATE_LANDING_PAGE~52QPNZVACSAM.jpeg" width="500" alt="Google Docs Certificate"/>
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FBS5TWNN8KX6/CERTIFICATE_LANDING_PAGE~FBS5TWNN8KX6.jpeg" width="500" alt="Git and GitHub Certificate"/>
 
-**Skills:** Document Creation, Collaborative Writing, Google Workspace, Professional Documentation
+**Skills:** Version Control, Git Commands, GitHub Workflows, Collaborative Development, Repository Management
 
-[🔗 View Certificate](https://coursera.org/share/efef9e92b5ccfb9de921ac79bba4761d) | [📖 Course Info](https://www.coursera.org/learn/google-docs)
+[🔗 View Certificate](https://coursera.org/share/d67743fe6a66fe638e7d30aac4fabf5c) | [📖 Course Info](https://www.coursera.org/learn/introduction-git-github)
 
 ---
 
@@ -221,6 +210,17 @@
 
 ---
 
+### 🗄️ Introduction to Relational Databases (RDBMS)
+**Coursera • IBM** | *March 6, 2024* | **15 hours** | **Grade: 88.65%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Y4HB7QQLHCZ6/CERTIFICATE_LANDING_PAGE~Y4HB7QQLHCZ6.jpeg" width="500" alt="IBM RDBMS Certificate"/>
+
+**Skills:** Relational Database Management Systems, Database Design, SQL Fundamentals, Data Modeling, Database Administration
+
+[🔗 View Certificate](https://coursera.org/share/35397bb989c5620795f87d1e48337938) | [📖 Course Info](https://www.coursera.org/learn/introduction-to-relational-databases)
+
+---
+
 ### 📊 Prepare, Clean, Transform, and Load Data using Power BI
 **Coursera • Coursera Project Network** | *March 6, 2024* | **2 hours** | **Grade: 100%**
 
@@ -232,14 +232,14 @@
 
 ---
 
-### 🔀 Introduction to Git and GitHub
-**Coursera • Google** | *March 10, 2024* | **20 hours** | **Grade: 90%**
+### 📝 Google Docs
+**Coursera • Google Cloud** | *March 5, 2024* | **2 hours** | **Grade: 100%**
 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FBS5TWNN8KX6/CERTIFICATE_LANDING_PAGE~FBS5TWNN8KX6.jpeg" width="500" alt="Git and GitHub Certificate"/>
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~52QPNZVACSAM/CERTIFICATE_LANDING_PAGE~52QPNZVACSAM.jpeg" width="500" alt="Google Docs Certificate"/>
 
-**Skills:** Version Control, Git Commands, GitHub Workflows, Collaborative Development, Repository Management
+**Skills:** Document Creation, Collaborative Writing, Google Workspace, Professional Documentation
 
-[🔗 View Certificate](https://coursera.org/share/d67743fe6a66fe638e7d30aac4fabf5c) | [📖 Course Info](https://www.coursera.org/learn/introduction-git-github)
+[🔗 View Certificate](https://coursera.org/share/efef9e92b5ccfb9de921ac79bba4761d) | [📖 Course Info](https://www.coursera.org/learn/google-docs)
 
 ---
 
