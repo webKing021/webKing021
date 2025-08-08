@@ -177,6 +177,17 @@
 
 ---
 
+### 🤖 ChatGPT for Beginners: Save time with Microsoft Excel
+**Coursera • Coursera Project Network** | *March 11, 2024* | **3 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V9UGEJRGLF67/CERTIFICATE_LANDING_PAGE~V9UGEJRGLF67.jpeg" width="500" alt="ChatGPT Excel Certificate"/>
+
+**Skills:** ChatGPT Integration, Microsoft Excel Automation, AI-Powered Productivity, Spreadsheet Optimization, Time Management
+
+[🔗 View Certificate](https://coursera.org/share/f3ac53a71fa2c7a08298f2aa7ac26a3a) | [📖 Course Info](https://www.coursera.org/projects/chatgpt-for-beginners-save-time-with-microsoft-excel)
+
+---
+
 ### 📅 Google Calendar
 **Coursera • Google Cloud** | *March 10, 2024* | **2 hours** | **Grade: 100%**
 
@@ -254,19 +265,8 @@
 
 ---
 
-### 🤖 ChatGPT for Beginners: Save time with Microsoft Excel
-**Coursera • Coursera Project Network** | *January 15, 2024* | **3 hours** | **Grade: 100%**
-
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V9UGEJRGLF67/CERTIFICATE_LANDING_PAGE~V9UGEJRGLF67.jpeg" width="500" alt="ChatGPT Excel Certificate"/>
-
-**Skills:** ChatGPT Integration, Microsoft Excel Automation, AI-Powered Productivity, Spreadsheet Optimization, Time Management
-
-[🔗 View Certificate](https://coursera.org/share/f3ac53a71fa2c7a08298f2aa7ac26a3a) | [📖 Course Info](https://www.coursera.org/projects/chatgpt-for-beginners-save-time-with-microsoft-excel)
-
----
-
-### �  Getting Started with Microsoft Excel
-**Coursera • Coursera Project Network** | *January 14, 2024* | **1 hour** | **Grade: 100%**
+### 📝 Getting Started with Microsoft Excel
+**Coursera • Coursera Project Network** | *January 15, 2024* | **1 hour** | **Grade: 100%**
 
 <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XASAWKD976QA/CERTIFICATE_LANDING_PAGE~XASAWKD976QA.jpeg" width="500" alt="Microsoft Excel Certificate"/>
 
