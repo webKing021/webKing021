@@ -1,108 +1,381 @@
 ## Hi there 👋
 
-<!--
-**webKing021/webKing021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🎓 Certificates & Achievements
-
-<div align="center">
-
-<!-- Sparkling Title & Animated Divider -->
-<h2>✨ Vibe Coding with Cursor AI by Scrimba ✨</h2>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=70&section=header&text=Certified%20by%20Coursera&fontSize=28&animation=twinkling" alt="Capsule header"/>
 
-<!-- Modern Badge Row with Interactive CTA -->
-<p>
-  <a href="https://coursera.org/share/914692a5df14ae01560225521ade56f1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View%20Official%20Certificate-6f42c1?style=for-the-badge&logo=Coursera&logoColor=white&labelColor=2d2d2d" alt="View Certificate Badge"/>
-  </a>
-  <a href="https://www.coursera.org/learn/vibe-coding-with-cursor-ai" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Powered%20by-Scrimba-ff5fa2?style=for-the-badge&logo=Scrimba&logoColor=white" alt="Scrimba Badge"/>
-  </a>
-</p>
+# 🏆 My Achievements & Certifications
 
-<!-- Certificate Preview with Shadow -->
-<a href="https://coursera.org/share/914692a5df14ae01560225521ade56f1" target="_blank" rel="noopener noreferrer">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HVODVNW3R08X/CERTIFICATE_LANDING_PAGE~HVODVNW3R08X.jpeg" alt="Certificate Preview" width="430" style="box-shadow: 0 4px 18px 0 rgba(111,66,193,0.4); border-radius: 12px; margin-top: 16px;"/>
-</a>
-
-<!-- Highlighted Achievement Block -->
-<blockquote align="center" style="background:#f8f0ff; border-left: 6px solid #6f42c1; padding: 1em 1.5em; margin: 2em 0; color: #2d2d2d;">
-  <strong>🚀 Achievement Unlocked on **Aug 1, 2025**:</strong>  
-  <br>
-  Successfully completed the <b>Vibe Coding with Cursor AI</b> program by <a href="https://www.coursera.org/learn/vibe-coding-with-cursor-ai" target="_blank" rel="noopener noreferrer">Scrimba</a> on <b>Coursera</b>.
-  <br>
-  <em>Level up your coding skills — join the vibe!</em>
-</blockquote>
-
-<!-- Social Proof and Encouragement -->
-<p align="center">
-  <a href="https://coursera.org/share/914692a5df14ae01560225521ade56f1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&url=https%3A%2F%2Fcoursera.org%2Fshare%2F914692a5df14ae01560225521ade56f1&style=social" alt="Share on Twitter" />
-  </a>
-  <br>
-  <b>Feeling inspired?</b> <br>
-  <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">Start your own journey on Coursera!</a>
-</p>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Certified+Developer;AI+%26+Coding+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </div>
+
+<br>
+
+## 📚 Latest Achievements
+
+### 🤖 Vibe Coding with GitHub Copilot
+**Coursera • Scrimba** | *August 1, 2025* | **1 hour** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TVVK4240RYV2/CERTIFICATE_LANDING_PAGE~TVVK4240RYV2.jpeg" width="500" alt="GitHub Copilot Certificate"/>
+
+**Skills:** GitHub Copilot, AI Code Suggestions, Collaborative Development
+
+[🔗 View Certificate](https://coursera.org/share/0a6df10d2e6a9207eb27f1abf92e3da3) | [📖 Course Info](https://www.coursera.org/learn/vibe-coding-github-copilot)
+
+---
+
+### 🎨 Vibe Coding with Cursor AI
+**Coursera • Scrimba** | *August 1, 2025* | **1 hour** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~HVODVNW3R08X/CERTIFICATE_LANDING_PAGE~HVODVNW3R08X.jpeg" width="500" alt="Cursor AI Certificate"/>
+
+**Skills:** Cursor IDE, AI-Powered Coding, Productivity Enhancement
+
+[🔗 View Certificate](https://coursera.org/share/914692a5df14ae01560225521ade56f1) | [📖 Course Info](https://www.coursera.org/learn/vibe-coding-with-cursor-ai)
+
+---
+
+### 🔧 C++ For C Programmers, Part B
+**Coursera • UC Santa Cruz** | *March 23, 2025* | **14 hours** | **Grade: 86.23%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NJLAPG9X3DWD/CERTIFICATE_LANDING_PAGE~NJLAPG9X3DWD.jpeg" width="500" alt="C++ Part B Certificate"/>
+
+**Skills:** Advanced C++, Object-Oriented Programming, Data Structures, Algorithm Implementation
+
+[🔗 View Certificate](https://coursera.org/share/f99abc00fb0e8b6e35d57c0f5af78560) | [📖 Course Info](https://www.coursera.org/learn/c-plus-plus-b)
+
+---
+
+### ☕ Introduction to Object-Oriented Programming with Java
+**Coursera • LearnQuest** | *March 19, 2025* | **13 hours** | **Grade: 97.50%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~0TWP35IZ804S/CERTIFICATE_LANDING_PAGE~0TWP35IZ804S.jpeg" width="500" alt="Java OOP Certificate"/>
+
+**Skills:** Object-Oriented Programming, Java Fundamentals, Programming Concepts, Software Development
+
+[🔗 View Certificate](https://coursera.org/share/627631069713e7a7683978b2aeb3c454) | [📖 Course Info](https://www.coursera.org/learn/object-oriented-programming-with-java?specialization=core-java)
+
+---
+
+### 📊 R Programming
+**Coursera • Johns Hopkins University** | *March 5, 2025* | **57 hours** | **Grade: 88.66%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~O24F2W9LCPCX/CERTIFICATE_LANDING_PAGE~O24F2W9LCPCX.jpeg" width="500" alt="R Programming Certificate"/>
+
+**Skills:** R Programming, Statistical Computing, Data Analysis, Data Visualization, Statistical Modeling
+
+[🔗 View Certificate](https://coursera.org/share/298c670bfb3494bc75b2700cfe4b2a2d) | [📖 Course Info](https://www.coursera.org/learn/r-programming)
+
+---
+
+### 🗄️ Introduction to Relational Databases (RDBMS)
+**Coursera • IBM** | *March 5, 2024* | **15 hours** | **Grade: 88.65%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~Y4HB7QQLHCZ6/CERTIFICATE_LANDING_PAGE~Y4HB7QQLHCZ6.jpeg" width="500" alt="IBM RDBMS Certificate"/>
+
+**Skills:** Relational Database Management Systems, Database Design, SQL Fundamentals, Data Modeling, Database Administration
+
+[🔗 View Certificate](https://coursera.org/share/35397bb989c5620795f87d1e48337938) | [📖 Course Info](https://www.coursera.org/learn/introduction-to-relational-databases)
+
+---
+
+### 🌐 Mastering Laravel Framework and PHP
+**Coursera • Board Infinity** | *January 31, 2025* | **15 hours** | **Grade: 96.49%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~8YO4B0UAIC8I/CERTIFICATE_LANDING_PAGE~8YO4B0UAIC8I.jpeg" width="500" alt="Laravel PHP Certificate"/>
+
+**Skills:** Laravel Framework, PHP Development, Web Development, MVC Architecture, Backend Development
+
+[🔗 View Certificate](https://coursera.org/share/114d2c781bb295c7d899fbfeeae6bbdc) | [📖 Course Info](https://www.coursera.org/learn/laravel-framework-and-php)
+
+---
+
+### 🎨 Canva 10 Design Milestone Badge
+**Canva** | *August 30, 2024*
+
+<img src="./Canva/Canva%2010%20Design%20Milestone%20Badge_20240830.gif" width="500" alt="Canva 10 Design Milestone"/>
+
+**Skills:** Graphic Design, Creative Thinking, Visual Communication, Design Consistency
+
+[🔗 View Achievement](./Canva/Canva%2010%20Design%20Milestone%20Badge_20240830.gif)
+
+---
+
+### 🔧 C++ For C Programmers, Part A
+**Coursera • UC Santa Cruz** | *August 2, 2024* | **14 hours** | **Grade: 91.87%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~1IUCYM2FWGZT/CERTIFICATE_LANDING_PAGE~1IUCYM2FWGZT.jpeg" width="500" alt="C++ Part A Certificate"/>
+
+**Skills:** C++ Programming, Memory Management, Object-Oriented Concepts, Programming Fundamentals
+
+[🔗 View Certificate](https://coursera.org/share/e96981e6e4dad5a9314769fdc8791999) | [📖 Course Info](https://www.coursera.org/learn/c-plus-plus-a)
+
+---
+
+### 🌐 Learn Object-Oriented Programming with PHP
+**Coursera • Coursera Project Network** | *August 1, 2024* | **1 hour** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~KCT3DFAVM1WB/CERTIFICATE_LANDING_PAGE~KCT3DFAVM1WB.jpeg" width="500" alt="PHP OOP Certificate"/>
+
+**Skills:** PHP Object-Oriented Programming, Classes, Objects, Inheritance, Encapsulation
+
+[🔗 View Certificate](https://coursera.org/share/ec363fa150e9d839d0f5f6efc2f13b8b) | [📖 Course Info](https://www.coursera.org/projects/oop-with-php)
+
+---
+
+### 🗄️ Understanding Basic SQL Syntax
+**Coursera • Coursera Project Network** | *July 3, 2024* | **1 hour** | **Grade: 95.83%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2U739STXE6UL/CERTIFICATE_LANDING_PAGE~2U739STXE6UL.jpeg" width="500" alt="SQL Syntax Certificate"/>
+
+**Skills:** SQL Fundamentals, Database Queries, Data Manipulation, Database Management
+
+[🔗 View Certificate](https://coursera.org/share/bda859da74fd462cff8aece16e89f827) | [📖 Course Info](https://www.coursera.org/projects/basic-sql-syntax)
+
+---
+
+### 🌐 Introduction to HTML
+**Coursera • Coursera Project Network** | *July 3, 2024* | **2 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JWLKLXNF7RPG/CERTIFICATE_LANDING_PAGE~JWLKLXNF7RPG.jpeg" width="500" alt="HTML Introduction Certificate"/>
+
+**Skills:** HTML Fundamentals, Web Structure, Basic Markup, Web Development Basics
+
+[🔗 View Certificate](https://coursera.org/share/c8d4f35fa557fecce7e4c06aedd6d4d4) | [📖 Course Info](https://www.coursera.org/projects/introduction-to-html)
+
+---
+
+### 📊 Google Sheets
+**Coursera • Google Cloud** | *March 12, 2024* | **3 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GSAWXM3UKHVP/CERTIFICATE_LANDING_PAGE~GSAWXM3UKHVP.jpeg" width="500" alt="Google Sheets Certificate"/>
+
+**Skills:** Spreadsheet Management, Data Analysis, Formulas, Charts, Google Workspace
+
+[🔗 View Certificate](https://coursera.org/share/cd349f027f03dd4b210f0afe62136e8d) | [📖 Course Info](https://www.coursera.org/learn/google-sheets)
+
+---
+
+### 📧 Gmail
+**Coursera • Google Cloud** | *March 12, 2024* | **3 hours** | **Grade: 95%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ENWRGNLH5MNW/CERTIFICATE_LANDING_PAGE~ENWRGNLH5MNW.jpeg" width="500" alt="Gmail Certificate"/>
+
+**Skills:** Email Management, Professional Communication, Gmail Features, Google Workspace
+
+[🔗 View Certificate](https://coursera.org/share/fd94892ed411f55637c0e2d692d4c5df) | [📖 Course Info](https://www.coursera.org/learn/gmail)
+
+---
+
+### 📽️ Google Slides
+**Coursera • Google Cloud** | *March 12, 2024* | **3 hours** | **Grade: 77.50%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9S8LU97H8PY8/CERTIFICATE_LANDING_PAGE~9S8LU97H8PY8.jpeg" width="500" alt="Google Slides Certificate"/>
+
+**Skills:** Presentation Design, Visual Communication, Google Workspace, Collaboration
+
+[🔗 View Certificate](https://coursera.org/share/f07cb3d07c3fbb250bfa1dd75dd24ff3) | [📖 Course Info](https://www.coursera.org/learn/google-slides)
+
+---
+
+### 💾 Google Drive
+**Coursera • Google Cloud** | *March 11, 2024* | **2 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~JBCR8ET4MNQA/CERTIFICATE_LANDING_PAGE~JBCR8ET4MNQA.jpeg" width="500" alt="Google Drive Certificate"/>
+
+**Skills:** Cloud Storage, File Management, Collaboration, Google Workspace
+
+[🔗 View Certificate](https://coursera.org/share/e2c0e48faef8dc369c40d6fdd7d6b1a5) | [📖 Course Info](https://www.coursera.org/learn/google-drive)
+
+---
+
+### 📅 Google Calendar
+**Coursera • Google Cloud** | *March 10, 2024* | **2 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~F2F7GJKBV7NX/CERTIFICATE_LANDING_PAGE~F2F7GJKBV7NX.jpeg" width="500" alt="Google Calendar Certificate"/>
+
+**Skills:** Time Management, Scheduling, Calendar Management, Google Workspace
+
+[🔗 View Certificate](https://coursera.org/share/9b31960a07318c66253094eedb3020eb) | [📖 Course Info](https://www.coursera.org/learn/google-calendar)
+
+---
+
+### 📝 Google Docs
+**Coursera • Google Cloud** | *March 5, 2024* | **2 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~52QPNZVACSAM/CERTIFICATE_LANDING_PAGE~52QPNZVACSAM.jpeg" width="500" alt="Google Docs Certificate"/>
+
+**Skills:** Document Creation, Collaborative Writing, Google Workspace, Professional Documentation
+
+[🔗 View Certificate](https://coursera.org/share/efef9e92b5ccfb9de921ac79bba4761d) | [📖 Course Info](https://www.coursera.org/learn/google-docs)
+
+---
+
+### 🌐 Interactivity with JavaScript
+**Coursera • University of Michigan** | *March 6, 2024* | **9 hours** | **Grade: 93.66%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~U37BUGSMS7WY/CERTIFICATE_LANDING_PAGE~U37BUGSMS7WY.jpeg" width="500" alt="JavaScript Certificate"/>
+
+**Skills:** JavaScript Programming, DOM Manipulation, Event Handling, Interactive Web Development
+
+[🔗 View Certificate](https://coursera.org/share/2cf8b3dc19ed86ec97dad7c00bdd2406) | [📖 Course Info](https://www.coursera.org/learn/javascript)
+
+---
+
+### 📊 Prepare, Clean, Transform, and Load Data using Power BI
+**Coursera • Coursera Project Network** | *March 6, 2024* | **2 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BL6UUHL6RABB/CERTIFICATE_LANDING_PAGE~BL6UUHL6RABB.jpeg" width="500" alt="Power BI Certificate"/>
+
+**Skills:** Power BI, Data Transformation, ETL Processes, Data Visualization, Business Intelligence
+
+[🔗 View Certificate](https://coursera.org/share/ade518469c36da863eba931ff2f4c82e) | [📖 Course Info](https://www.coursera.org/projects/prepare-clean-transform-and-load-data-using-powerbi)
+
+---
+
+### 🔀 Introduction to Git and GitHub
+**Coursera • Google** | *March 10, 2024* | **20 hours** | **Grade: 90%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FBS5TWNN8KX6/CERTIFICATE_LANDING_PAGE~FBS5TWNN8KX6.jpeg" width="500" alt="Git and GitHub Certificate"/>
+
+**Skills:** Version Control, Git Commands, GitHub Workflows, Collaborative Development, Repository Management
+
+[🔗 View Certificate](https://coursera.org/share/d67743fe6a66fe638e7d30aac4fabf5c) | [📖 Course Info](https://www.coursera.org/learn/introduction-git-github)
+
+---
+
+### 📝 Create a Resume and Cover Letter with Google Docs
+**Coursera • Coursera Project Network** | *January 15, 2024* | **3 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~USRDL9BLJ8BQ/CERTIFICATE_LANDING_PAGE~USRDL9BLJ8BQ.jpeg" width="500" alt="Resume Cover Letter Certificate"/>
+
+**Skills:** Professional Document Creation, Resume Writing, Cover Letter Design, Google Docs Mastery, Career Development
+
+[🔗 View Certificate](https://coursera.org/share/af2c72bd40e73bf851d44e191ed45a03) | [📖 Course Info](https://www.coursera.org/projects/create-resume-cover-letter-google-docs)
+
+---
+
+### 🤖 ChatGPT for Beginners: Save time with Microsoft Excel
+**Coursera • Coursera Project Network** | *January 15, 2024* | **3 hours** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~V9UGEJRGLF67/CERTIFICATE_LANDING_PAGE~V9UGEJRGLF67.jpeg" width="500" alt="ChatGPT Excel Certificate"/>
+
+**Skills:** ChatGPT Integration, Microsoft Excel Automation, AI-Powered Productivity, Spreadsheet Optimization, Time Management
+
+[🔗 View Certificate](https://coursera.org/share/f3ac53a71fa2c7a08298f2aa7ac26a3a) | [📖 Course Info](https://www.coursera.org/projects/chatgpt-for-beginners-save-time-with-microsoft-excel)
+
+---
+
+### �  Getting Started with Microsoft Excel
+**Coursera • Coursera Project Network** | *January 14, 2024* | **1 hour** | **Grade: 100%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XASAWKD976QA/CERTIFICATE_LANDING_PAGE~XASAWKD976QA.jpeg" width="500" alt="Microsoft Excel Certificate"/>
+
+**Skills:** Microsoft Excel Fundamentals, Spreadsheet Basics, Data Entry, Basic Formulas, Worksheet Management
+
+[🔗 View Certificate](https://coursera.org/share/b6855872b5ab434f4860bdf65c7bae26) | [📖 Course Info](https://www.coursera.org/projects/introduction-microsoft-excel)
+
+---
+
+### 💻 C for Everyone: Programming Fundamentals
+**Coursera • UC Santa Cruz** | *November 30, 2023* | **15 hours** | **Grade: 96%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~9NHR8HY5A3PZ/CERTIFICATE_LANDING_PAGE~9NHR8HY5A3PZ.jpeg" width="500" alt="C Programming Certificate"/>
+
+**Skills:** C Programming, Programming Fundamentals, Problem Solving, Algorithm Development
+
+[🔗 View Certificate](https://coursera.org/share/500b19b3dce0ecf7b9740e39ef624195) | [📖 Course Info](https://www.coursera.org/learn/c-for-everyone)
+
+---
+
+### 🌐 Introduction to HTML5
+**Coursera • University of Michigan** | *November 29, 2023* | **11 hours** | **Grade: 93.61%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~GP25TQKPUVGQ/CERTIFICATE_LANDING_PAGE~GP25TQKPUVGQ.jpeg" width="500" alt="HTML5 Certificate"/>
+
+**Skills:** HTML5, Web Structure, Semantic Markup, Web Standards, Frontend Development
+
+[🔗 View Certificate](https://coursera.org/share/c9b54d1bbfeb5fdeea7cf5c02833a283) | [📖 Course Info](https://www.coursera.org/learn/html)
+
+---
+
+## 🎯 Active Specializations
+
+### **Vibe Coding Essentials - Build Apps with AI** *(Scrimba on Coursera)*
+- ✅ Vibe Coding with Cursor AI
+- ✅ Vibe Coding with GitHub Copilot  
+- ⏳ Learn to Code with AI *(Coming Soon)*
+
+**Progress:** 2/3 courses completed (66%)
+
+---
+
+### **Coding for Everyone: C and C++ Specialization** *(UC Santa Cruz on Coursera)*
+- ✅ C for Everyone: Programming Fundamentals
+- ✅ C++ For C Programmers, Part A
+- ✅ C++ For C Programmers, Part B
+- ⏳ Course 4 *(Not yet started)*
+
+**Progress:** 3/4 courses completed (75%)
+
+---
+
+### **Getting Started with Google Workspace Specialization** *(Google Cloud on Coursera)*
+- ✅ Google Docs
+- ✅ Google Calendar
+- ✅ Google Drive
+- ✅ Google Slides
+- ✅ Gmail
+- ✅ Google Sheets
+- ⏳ Course 7 *(Not yet started)*
+- ⏳ Course 8 *(Not yet started)*
+- ⏳ Course 9 *(Not yet started)*
+
+**Progress:** 6/9 courses completed (67%)
+
+---
+
+### **Web Design for Everybody: Basics of Web Development & Coding Specialization** *(University of Michigan on Coursera)*
+- ✅ Introduction to HTML5
+- ✅ Interactivity with JavaScript
+- ⏳ Course 3 *(Not yet started)*
+- ⏳ Course 4 *(Not yet started)*
+- ⏳ Course 5 *(Not yet started)*
+
+**Progress:** 2/5 courses completed (40%)
+
+---
+
+## 📊 Quick Stats
+
+- 🎓 **Coursera Certificates:** 25
+- 🎨 **Design Achievements:** 1
+- 📚 **Total Learning Hours:** 213+ hours
+- 🎯 **Overall Average Grade:** 93.67%
+- 🌟 **Active Specializations:** 4
+- 🏆 **Perfect Scores:** 13 courses (100%)
+- 💻 **Programming Languages:** C, C++, Java, PHP, SQL, JavaScript, R
+- 🌐 **Web Technologies:** HTML, HTML5, JavaScript, Laravel, PHP OOP
+- 🤖 **AI Tools Mastered:** Cursor AI, GitHub Copilot, ChatGPT
+- 🗄️ **Database Skills:** SQL Fundamentals, RDBMS, Database Design, Data Modeling
+- 📱 **Google Workspace:** Complete Suite Mastery
+- 📊 **Business Intelligence:** Power BI, Data Analytics, R Statistical Computing, Microsoft Excel (Basic + Advanced)
+- 🔀 **Version Control:** Git, GitHub, Collaborative Development
+- 💼 **Professional Skills:** Resume Writing, Cover Letter Design, Career Development
+
+---
+
+## 🚀 What's Next
+
+Currently working on completing **four specializations**:
+1. **Vibe Coding Essentials** - 1 course remaining
+2. **C and C++ Specialization** - 1 course remaining  
+3. **Google Workspace Specialization** - 3 courses remaining
+4. **Web Design for Everybody** - 3 courses remaining
+
+Future plans include exploring more AI development courses, expanding to other platforms like Udemy and edX, and continuing to develop both technical programming skills and professional productivity capabilities.
 
 ---
 
 <div align="center">
-
-<!-- Sparkling Title & Animated Divider -->
-<h2>✨ Vibe Coding with GitHub Copilot by Scrimba ✨</h2>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=70&section=header&text=Certified%20by%20Coursera&fontSize=28&animation=twinkling" alt="Capsule header"/>
-
-<!-- Modern Badge Row with Interactive CTA -->
-<p>
-  <a href="https://coursera.org/share/0a6df10d2e6a9207eb27f1abf92e3da3" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View%20Official%20Certificate-6f42c1?style=for-the-badge&logo=Coursera&logoColor=white&labelColor=2d2d2d" alt="View Certificate Badge"/>
-  </a>
-  <a href="https://www.coursera.org/learn/vibe-coding-github-copilot" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Powered%20by-Scrimba-ff5fa2?style=for-the-badge&logo=Scrimba&logoColor=white" alt="Scrimba Badge"/>
-  </a>
-</p>
-
-<!-- Certificate Preview with Shadow -->
-<a href="https://coursera.org/share/0a6df10d2e6a9207eb27f1abf92e3da3" target="_blank" rel="noopener noreferrer">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~TVVK4240RYV2/CERTIFICATE_LANDING_PAGE~TVVK4240RYV2.jpeg" alt="Certificate Preview" width="430" style="box-shadow: 0 4px 18px 0 rgba(111,66,193,0.4); border-radius: 12px; margin-top: 16px;"/>
-</a>
-
-<!-- Highlighted Achievement Block -->
-<blockquote align="center" style="background:#f8f0ff; border-left: 6px solid #6f42c1; padding: 1em 1.5em; margin: 2em 0; color: #2d2d2d;">
-  <strong>🚀 Achievement Unlocked **Aug 1, 2025**:</strong>  
-  <br>
-  Successfully completed the <b>Vibe Coding with GitHub Copilot</b> program by <a href="https://www.coursera.org/learn/vibe-coding-github-copilot" target="_blank" rel="noopener noreferrer">Scrimba</a> on <b>Coursera</b>.
-  <br>
-  <em>Level up your coding skills — join the vibe!</em>
-</blockquote>
-
-<!-- Social Proof and Encouragement -->
-<p align="center">
-  <a href="https://coursera.org/share/0a6df10d2e6a9207eb27f1abf92e3da3" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/twitter/url?label=Share%20on%20Twitter&url=https%3A%2F%2Fcoursera.org%2Fshare%2F914692a5df14ae01560225521ade56f1&style=social" alt="Share on Twitter" />
-  </a>
-  <br>
-  <b>Feeling inspired?</b> <br>
-  <a href="https://www.coursera.org/" target="_blank" rel="noopener noreferrer">Start your own journey on Coursera!</a>
-</p>
-
+  <i>✨ Always learning, always growing ✨</i>
 </div>
-
----
