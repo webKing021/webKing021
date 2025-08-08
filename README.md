@@ -1,11 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=70&section=header&text=Krutarth%20Raychura&fontSize=28&animation=twinkling" alt="Capsule header"/>
-
 
 # 🏆 My Achievements & Certifications
 
 <div align="center">
+  <i>✨ Always learning, always growing ✨</i>
+</div> align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Certified+Developer;AI+%26+Coding+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </div>
 
@@ -76,6 +77,28 @@
 **Skills:** Laravel Framework, PHP Development, Web Development, MVC Architecture, Backend Development
 
 [🔗 View Certificate](https://coursera.org/share/114d2c781bb295c7d899fbfeeae6bbdc) | [📖 Course Info](https://www.coursera.org/learn/laravel-framework-and-php)
+
+---
+
+### 🏢 Client Service Job Simulation
+**Forage • Bloomberg** | *January 9, 2025* | **3 hours**
+
+<img src="https://pdf2jpg.net/files/bcba638548fc825ddca51d6d3e77a11797ff32b5/sqYY2sxG2zNqXfHjJ_pNeDZ9MsW9WShojQm_7HteHgZganZLwTtu8_1736459775629_completion_certificate-page-001.jpg" width="500" alt="Bloomberg Client Service Certificate"/>
+
+**Skills:** Client Service, Customer Relations, Financial Services, Problem Solving, Professional Communication
+
+[🔗 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pNeDZ9MsW9WShojQm/sqYY2sxG2zNqXfHjJ_pNeDZ9MsW9WShojQm_7HteHgZganZLwTtu8_1736459775629_completion_certificate.pdf#toolbar=0&view=fitH) | [📖 Course Info](https://www.theforage.com/simulations/bloomberg/client-service-l3u2)
+
+---
+
+### 📊 Data Visualisation: Empowering Business with Effective Insights
+**Forage • Tata Group** | *January 8, 2025* | **3 hours**
+
+<img src="https://pdf2jpg.net/files/cb5fb1321ee4607886d408671382a6363a110e95/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_7HteHgZganZLwTtu8_1736350730824_completion_certificate-page-001.jpg" width="500" alt="Tata Data Visualisation Certificate"/>
+
+**Skills:** Data Visualization, Business Intelligence, Data Analysis, Effective Insights, Business Decision Making
+
+[🔗 View Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_7HteHgZganZLwTtu8_1736350730824_completion_certificate.pdf#toolbar=0&view=fitH) | [📖 Course Info](https://www.theforage.com/simulations/tata/data-visualisation-p5xo)
 
 ---
 
@@ -299,7 +322,7 @@
 
 ---
 
-### 📝 Getting Started with Microsoft Excel
+### 📊 Getting Started with Microsoft Excel
 **Coursera • Coursera Project Network** | *January 15, 2024* | **1 hour** | **Grade: 100%**
 
 <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~XASAWKD976QA/CERTIFICATE_LANDING_PAGE~XASAWKD976QA.jpeg" width="500" alt="Microsoft Excel Certificate"/>
@@ -381,21 +404,22 @@
 
 ## 📊 Quick Stats
 
-+ 🎓 **Coursera Certificates:** 25
-+ 🏅 **Great Learning Certificates:** 3
-+ 🎨 **Design Achievements:** 1
-+ 📚 **Total Learning Hours:** 217+ hours
-+ ⭐ **Overall Average Grade:** 95.64%
-+ 🎯 **Active Specializations:** 4
-+ 🏆 **Perfect Scores:** 12 courses (100%)
-+ 💻 **Programming Languages:** C, C++, Java, PHP, SQL, JavaScript, R
-+ 🌐 **Web Technologies:** HTML, HTML5, JavaScript, Laravel, PHP OOP
-+ 🤖 **AI Tools Mastered:** Cursor AI, GitHub Copilot, ChatGPT
-+ 🗄️ **Database Skills:** SQL Fundamentals, RDBMS, Database Design, Data Modeling
-+ 🗂️ **Google Workspace:** Complete Suite Mastery
-+ 📊 **Business Intelligence:** Power BI, Data Visualization, Data Analytics, R Statistical Computing, Microsoft Excel (Basic + Advanced)
-+ 🔀 **Version Control:** Git, GitHub, Collaborative Development
-+ 💼 **Professional Skills:** Resume Writing, Cover Letter Design, Career Development, Effective Communication, Microsoft PowerPoint
+- 🎓 **Coursera Certificates:** 25
+- 🏅 **Great Learning Certificates:** 3
+- 🎨 **Design Achievements:** 1
+- 🏢 **Forage Certificates:** 2
+- 📚 **Total Learning Hours:** 223+ hours
+- ⭐ **Overall Average Grade:** 95.64%
+- 🎯 **Active Specializations:** 4
+- 🏆 **Perfect Scores:** 12 courses (100%)
+- 💻 **Programming Languages:** C, C++, Java, PHP, SQL, JavaScript, R
+- 🌐 **Web Technologies:** HTML, HTML5, JavaScript, Laravel, PHP OOP
+- 🤖 **AI Tools Mastered:** Cursor AI, GitHub Copilot, ChatGPT
+- 🗄️ **Database Skills:** SQL Fundamentals, RDBMS, Database Design, Data Modeling
+- 🗂️ **Google Workspace:** Complete Suite Mastery
+- 📊 **Business Intelligence:** Power BI, Data Visualization, Data Analytics, R Statistical Computing, Microsoft Excel (Basic + Advanced)
+- 🔀 **Version Control:** Git, GitHub, Collaborative Development
+- 💼 **Professional Skills:** Resume Writing, Cover Letter Design, Career Development, Effective Communication, Microsoft PowerPoint, Client Service
 
 ---
 
