@@ -81,7 +81,7 @@
 ### 🏢 Client Service Job Simulation
 **Forage • Bloomberg** | *January 9, 2025* | **3 hours**
 
-<img src="https://pdf2jpg.net/files/bcba638548fc825ddca51d6d3e77a11797ff32b5/sqYY2sxG2zNqXfHjJ_pNeDZ9MsW9WShojQm_7HteHgZganZLwTtu8_1736459775629_completion_certificate-page-001.jpg" width="500" alt="Bloomberg Client Service Certificate"/>
+<img src="https://ngassqmfajyjiaemcfld.supabase.co/storage/v1/object/public/thumbnails/Bloomberg_Client_Service_Job_Simulation.jpg" width="500" alt="Bloomberg Client Service Certificate"/>
 
 **Skills:** Client Service, Customer Relations, Financial Services, Problem Solving, Professional Communication
 
@@ -92,7 +92,7 @@
 ### 📊 Data Visualisation: Empowering Business with Effective Insights
 **Forage • Tata Group** | *January 8, 2025* | **3 hours**
 
-<img src="https://pdf2jpg.net/files/cb5fb1321ee4607886d408671382a6363a110e95/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_7HteHgZganZLwTtu8_1736350730824_completion_certificate-page-001.jpg" width="500" alt="Tata Data Visualisation Certificate"/>
+<img src="https://ngassqmfajyjiaemcfld.supabase.co/storage/v1/object/public/thumbnails/Tata_Group_Data_Visualisation.jpg" width="500" alt="Tata Data Visualisation Certificate"/>
 
 **Skills:** Data Visualization, Business Intelligence, Data Analysis, Effective Insights, Business Decision Making
 
