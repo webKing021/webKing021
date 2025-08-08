@@ -4,8 +4,6 @@
 
 # 🏆 My Achievements & Certifications
 
-<div align="center">
-  <i>✨ Always learning, always growing ✨</i>
 </div> align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Certified+Developer;AI+%26+Coding+Enthusiast;Continuous+Learner" alt="Typing SVG" />
 </div>
@@ -278,6 +276,17 @@
 
 ---
 
+### 🎨 CSS Crash Course For Beginners
+**Udemy** | *January 28, 2024* | **1 hour**
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-21600d4b-23ae-43d5-b89a-85e039bb3cab.jpg" width="500" alt="CSS Crash Course Certificate"/>
+
+**Skills:** CSS Fundamentals, Styling Techniques, Web Design, Frontend Development, Responsive Design
+
+[🔗 View Certificate](https://www.udemy.com/certificate/UC-21600d4b-23ae-43d5-b89a-85e039bb3cab/) | [📖 Course Info](https://www.udemy.com/course/css-crash-course-for-beginners-g/)
+
+---
+
 ### 📊 Data Visualization With Power BI
 **Great Learning** | *January 2024* | **1.5 hours**
 
@@ -300,6 +309,17 @@
 
 ---
 
+### 💻 Problem Solving with C programming language
+**Udemy** | *January 24, 2024* | **5 hours**
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-f1faa02e-2837-4840-a7e5-c177e7c7ec4c.jpg" width="500" alt="Problem Solving with C Certificate"/>
+
+**Skills:** C Programming, Problem Solving, Algorithm Development, Programming Logic, Computational Thinking
+
+[🔗 View Certificate](https://www.udemy.com/certificate/UC-f1faa02e-2837-4840-a7e5-c177e7c7ec4c/) | [📖 Course Info](https://www.udemy.com/course/problem-solving-with-c-programming-language/)
+
+---
+
 ### 📽️ Microsoft PowerPoint Tutorial
 **Great Learning** | *January 2024* | **1.5 hours**
 
@@ -319,6 +339,61 @@
 **Skills:** Professional Document Creation, Resume Writing, Cover Letter Design, Google Docs Mastery, Career Development
 
 [🔗 View Certificate](https://coursera.org/share/af2c72bd40e73bf851d44e191ed45a03) | [📖 Course Info](https://www.coursera.org/projects/create-resume-cover-letter-google-docs)
+
+---
+
+### 💻 Mastering Pointers in C : A Course on Efficient Programming
+**Udemy** | *January 15, 2024* | **3 hours**
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-63c017f3-0a7b-4bce-83fe-273819749917.jpg" width="500" alt="Mastering Pointers in C Certificate"/>
+
+**Skills:** C Programming, Pointer Management, Memory Management, Efficient Programming, Advanced C Concepts
+
+[🔗 View Certificate](https://www.udemy.com/certificate/UC-63c017f3-0a7b-4bce-83fe-273819749917/) | [📖 Course Info](https://www.udemy.com/course/mastering-pointers-in-c-a-course-on-efficient-programming/)
+
+---
+
+### 📄 MS Word for Novice
+**Udemy** | *January 14, 2024* | **2 hours**
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-4b6a98b5-4cb6-4823-a22e-f56970f0a325.jpg" width="500" alt="MS Word for Novice Certificate"/>
+
+**Skills:** Microsoft Word, Document Formatting, Word Processing, Professional Documentation, Office Productivity
+
+[🔗 View Certificate](https://www.udemy.com/certificate/UC-4b6a98b5-4cb6-4823-a22e-f56970f0a325/) | [📖 Course Info](https://www.udemy.com/course/ms-word-for-novice/)
+
+---
+
+### 🌐 Introduction to Domain Names and Web Hosting - Quick Guide
+**Udemy** | *January 14, 2024* | **1 hour**
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-2b344be4-0e87-4583-83df-dd39b3a016d1.jpg" width="500" alt="Domain Names and Web Hosting Certificate"/>
+
+**Skills:** Domain Names, Web Hosting, DNS Management, Website Deployment, Web Infrastructure
+
+[🔗 View Certificate](https://www.udemy.com/certificate/UC-2b344be4-0e87-4583-83df-dd39b3a016d1/) | [📖 Course Info](https://www.udemy.com/course/introduction-to-domain-names-and-web-hosting-quick-guide/)
+
+---
+
+### 🌐 HTML and CSS for Beginners 2024
+**Udemy** | *January 13, 2024* | **1 hour**
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-4cb8b821-3981-4ef6-8502-4753337b8cf4.jpg" width="500" alt="HTML and CSS for Beginners Certificate"/>
+
+**Skills:** HTML Fundamentals, CSS Styling, Web Development Basics, Frontend Development, Responsive Design
+
+[🔗 View Certificate](https://www.udemy.com/certificate/UC-4cb8b821-3981-4ef6-8502-4753337b8cf4/) | [📖 Course Info](https://www.udemy.com/topic/css/)
+
+---
+
+### 📝 The Complete Google Forms Course - Mastering Google Forms
+**Udemy** | *January 13, 2024* | **1 hour**
+
+<img src="https://udemy-certificate.s3.amazonaws.com/image/UC-d88e8e7e-fdcc-4199-9758-2f08a9857d6d.jpg" width="500" alt="Google Forms Course Certificate"/>
+
+**Skills:** Google Forms, Form Creation, Data Collection, Survey Design, Google Workspace Integration
+
+[🔗 View Certificate](https://www.udemy.com/certificate/UC-d88e8e7e-fdcc-4199-9758-2f08a9857d6d/) | [📖 Course Info](https://www.udemy.com/course/the-complete-google-forms-course-mastering-google-forms/)
 
 ---
 
@@ -408,12 +483,13 @@
 - 🏅 **Great Learning Certificates:** 3
 - 🎨 **Design Achievements:** 1
 - 🏢 **Forage Certificates:** 2
-- 📚 **Total Learning Hours:** 223+ hours
+- 📚 **Udemy Certificates:** 7
+- 📚 **Total Learning Hours:** 237+ hours
 - ⭐ **Overall Average Grade:** 95.64%
 - 🎯 **Active Specializations:** 4
 - 🏆 **Perfect Scores:** 12 courses (100%)
 - 💻 **Programming Languages:** C, C++, Java, PHP, SQL, JavaScript, R
-- 🌐 **Web Technologies:** HTML, HTML5, JavaScript, Laravel, PHP OOP
+- 🌐 **Web Technologies:** HTML, HTML5, CSS, JavaScript, Laravel, PHP OOP
 - 🤖 **AI Tools Mastered:** Cursor AI, GitHub Copilot, ChatGPT
 - 🗄️ **Database Skills:** SQL Fundamentals, RDBMS, Database Design, Data Modeling
 - 🗂️ **Google Workspace:** Complete Suite Mastery
