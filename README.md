@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=70&section=header&text=Certified%20by%20Coursera&fontSize=28&animation=twinkling" alt="Capsule header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=70&section=header&text=Krutarth%20Raychura&fontSize=28&animation=twinkling" alt="Capsule header"/>
+
 
 # 🏆 My Achievements & Certifications
 
@@ -254,6 +255,39 @@
 
 ---
 
+### 📊 Data Visualization With Power BI
+**Great Learning** | *January 2024* | **1.5 hours**
+
+<img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/4053889/original/Raychura_Krutarth_Gautambhai20240126-70-gld3f3.jpg" width="500" alt="Data Visualization With Power BI Certificate"/>
+
+**Skills:** Power BI, Data Visualization, Business Intelligence, Dashboard Creation, Data Analysis
+
+[🔗 View Certificate](https://www.mygreatlearning.com/certificate/OWWLLLTE) | [📖 Course Info](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-visualization-with-power-bi)
+
+---
+
+### 💬 Effective Communication
+**Great Learning** | *January 2024* | **1 hour**
+
+<img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/4045110/original/Raychura_Krutarth_Gautambhai20240124-76-14ewk1a.jpg" width="500" alt="Effective Communication Certificate"/>
+
+**Skills:** Communication Skills, Professional Communication, Interpersonal Skills, Presentation Skills, Workplace Communication
+
+[🔗 View Certificate](https://www.mygreatlearning.com/certificate/JQJLPMIH) | [📖 Course Info](https://www.mygreatlearning.com/academy/learn-for-free/courses/effective-communication)
+
+---
+
+### 📽️ Microsoft PowerPoint Tutorial
+**Great Learning** | *January 2024* | **1.5 hours**
+
+<img src="https://d9jmtjs5r4cgq.cloudfront.net/ComplementaryCourseCertificate/4000393/original/Raychura_Krutarth_Gautambhai20240116-74-npimkg.jpg" width="500" alt="Microsoft PowerPoint Tutorial Certificate"/>
+
+**Skills:** Microsoft PowerPoint, Presentation Design, Visual Communication, Slide Creation, Professional Presentations
+
+[🔗 View Certificate](https://www.mygreatlearning.com/certificate/AGCZGAJT) | [📖 Course Info](https://www.mygreatlearning.com/academy/learn-for-free/courses/microsoft-powerpoint-tutorial)
+
+---
+
 ### 📝 Create a Resume and Cover Letter with Google Docs
 **Coursera • Coursera Project Network** | *January 15, 2024* | **3 hours** | **Grade: 100%**
 
@@ -305,7 +339,7 @@
 - ✅ Vibe Coding with GitHub Copilot  
 - ⏳ Learn to Code with AI *(Coming Soon)*
 
-**Progress:** 2/3 courses completed (66%)
+**Progress:** 2/3 courses completed (66.67%)
 
 ---
 
@@ -313,7 +347,7 @@
 - ✅ C for Everyone: Programming Fundamentals
 - ✅ C++ For C Programmers, Part A
 - ✅ C++ For C Programmers, Part B
-- ⏳ Course 4 *(Not yet started)*
+- ⏳ Advanced C++ Programming *(Not yet started)*
 
 **Progress:** 3/4 courses completed (75%)
 
@@ -326,20 +360,20 @@
 - ✅ Google Slides
 - ✅ Gmail
 - ✅ Google Sheets
-- ⏳ Course 7 *(Not yet started)*
-- ⏳ Course 8 *(Not yet started)*
-- ⏳ Course 9 *(Not yet started)*
+- ⏳ Google Meet *(Not yet started)*
+- ⏳ Google Forms *(Not yet started)*
+- ⏳ Google Workspace Integration *(Not yet started)*
 
-**Progress:** 6/9 courses completed (67%)
+**Progress:** 6/9 courses completed (66.67%)
 
 ---
 
 ### **Web Design for Everybody: Basics of Web Development & Coding Specialization** *(University of Michigan on Coursera)*
 - ✅ Introduction to HTML5
 - ✅ Interactivity with JavaScript
-- ⏳ Course 3 *(Not yet started)*
-- ⏳ Course 4 *(Not yet started)*
-- ⏳ Course 5 *(Not yet started)*
+- ⏳ Introduction to CSS3 *(Not yet started)*
+- ⏳ Advanced Styling with Responsive Design *(Not yet started)*
+- ⏳ Web Design Capstone *(Not yet started)*
 
 **Progress:** 2/5 courses completed (40%)
 
@@ -347,20 +381,21 @@
 
 ## 📊 Quick Stats
 
-- 🎓 **Coursera Certificates:** 25
-- 🎨 **Design Achievements:** 1
-- 📚 **Total Learning Hours:** 213+ hours
-- 🎯 **Overall Average Grade:** 93.67%
-- 🌟 **Active Specializations:** 4
-- 🏆 **Perfect Scores:** 13 courses (100%)
-- 💻 **Programming Languages:** C, C++, Java, PHP, SQL, JavaScript, R
-- 🌐 **Web Technologies:** HTML, HTML5, JavaScript, Laravel, PHP OOP
-- 🤖 **AI Tools Mastered:** Cursor AI, GitHub Copilot, ChatGPT
-- 🗄️ **Database Skills:** SQL Fundamentals, RDBMS, Database Design, Data Modeling
-- 📱 **Google Workspace:** Complete Suite Mastery
-- 📊 **Business Intelligence:** Power BI, Data Analytics, R Statistical Computing, Microsoft Excel (Basic + Advanced)
-- 🔀 **Version Control:** Git, GitHub, Collaborative Development
-- 💼 **Professional Skills:** Resume Writing, Cover Letter Design, Career Development
++ 🎓 **Coursera Certificates:** 25
++ 🏅 **Great Learning Certificates:** 3
++ 🎨 **Design Achievements:** 1
++ 📚 **Total Learning Hours:** 217+ hours
++ ⭐ **Overall Average Grade:** 95.64%
++ 🎯 **Active Specializations:** 4
++ 🏆 **Perfect Scores:** 12 courses (100%)
++ 💻 **Programming Languages:** C, C++, Java, PHP, SQL, JavaScript, R
++ 🌐 **Web Technologies:** HTML, HTML5, JavaScript, Laravel, PHP OOP
++ 🤖 **AI Tools Mastered:** Cursor AI, GitHub Copilot, ChatGPT
++ 🗄️ **Database Skills:** SQL Fundamentals, RDBMS, Database Design, Data Modeling
++ 🗂️ **Google Workspace:** Complete Suite Mastery
++ 📊 **Business Intelligence:** Power BI, Data Visualization, Data Analytics, R Statistical Computing, Microsoft Excel (Basic + Advanced)
++ 🔀 **Version Control:** Git, GitHub, Collaborative Development
++ 💼 **Professional Skills:** Resume Writing, Cover Letter Design, Career Development, Effective Communication, Microsoft PowerPoint
 
 ---
 
