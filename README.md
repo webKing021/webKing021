@@ -15,16 +15,7 @@
       <td>
         <img src="./Hackerrank/hackerrank_python_bronze_1_star_badge.svg" height="80" alt="HackerRank Python Bronze 1 Star Badge"/>
       </td>
-      <td>
-        <!-- Add your 2nd badge here, for example:
-        <img src="./Path/your_second_badge.svg" height="80" alt="Second Badge"/>
-        -->
-      </td>
-      <td>
-        <!-- Add your 3rd badge here, for example:
-        <img src="./Path/your_third_badge.svg" height="80" alt="Third Badge"/>
-        -->
-      </td>
+      
     </tr>
   </table>
   
