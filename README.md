@@ -11,6 +11,8 @@
 
 ## 🏅 Hackerrank Badges
 
+> Krutarth Raychura : [🔗 View Profile](https://www.hackerrank.com/profile/brucewaynes021)
+
 <div align="center">
   <img src="./Hackerrank/hackerrank_python_bronze_1_star_badge.svg" height="80" alt="HackerRank Python Bronze 1 Star Badge"/>
 </div>
