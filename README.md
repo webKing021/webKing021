@@ -26,11 +26,11 @@
 ### 🤖 Learn to code with AI
 **Coursera • Scrimba** | *August 21, 2025* | **5 hour** | **Grade: 92.82%**
 
-<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YFHNEWP0Z8GS/CERTIFICATE_LANDING_PAGE~YFHNEWP0Z8GS.jpeg" width="500" alt="GitHub Copilot Certificate"/>
-
-**Skills:** GitHub Copilot, AI Code Suggestions, Collaborative Development
-
-[🔗 View Certificate](https://coursera.org/share/eac74da628f38c1d22b97a33b0008998) | [📖 Course Info](https://www.coursera.org/learn/learn-to-code-with-ai)
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YFHNEWP0Z8GS/CERTIFICATE_LANDING_PAGE~YFHNEWP0Z8GS.jpeg" width="500" alt="GitHub Copilot Certificate"/>
+  
+  **Skills:** HTML, CSS, JavaScript, Responsive Web Design, Debugging, Front-End Web Development, Database Applications (Firebase), Application Deployment, Version Control (GitHub), Mobile Development, Chrome Extension Development, Artificial Intelligence, ChatGPT
+  
+  [🔗 View Certificate](https://coursera.org/share/eac74da628f38c1d22b97a33b0008998) | [📖 Course Info](https://www.coursera.org/learn/learn-to-code-with-ai)
 
 ---
 
@@ -501,7 +501,8 @@
 
 ## 📊 Quick Stats
 
-- 🎓 **Coursera Certificates:** 25
+- 🎯 **Hackerrank Badges:** 4
+- 🎓 **Coursera Certificates:** 26
 - 🏅 **Great Learning Certificates:** 3
 - 🎨 **Design Achievements:** 1
 - 🏢 **Forage Certificates:** 2
@@ -511,9 +512,9 @@
 - 🎯 **Active Specializations:** 3
 - 🏆 **Perfect Scores:** 12 courses (100%)
 - 💻 **Programming Languages:** C, C++, Java, PHP, SQL, JavaScript, R
-- 🌐 **Web Technologies:** HTML, HTML5, CSS, JavaScript, Laravel, PHP OOP
+- 🌐 **Web Technologies:** HTML5, CSS, JavaScript, Laravel, PHP OOP
 - 🤖 **AI Tools Mastered:** Cursor AI, GitHub Copilot, ChatGPT
-- 🗄️ **Database Skills:** SQL Fundamentals, RDBMS, Database Design, Data Modeling
+- 🗄️ **Database Skills:** SQL Fundamentals, RDBMS, Database Design, Data Modeling, Firebase
 - 🗂️ **Google Workspace:** Complete Suite Mastery
 - 📊 **Business Intelligence:** Power BI, Data Visualization, Data Analytics, R Statistical Computing, Microsoft Excel (Basic + Advanced)
 - 🔀 **Version Control:** Git, GitHub, Collaborative Development
@@ -527,10 +528,12 @@ Currently working on completing **three specializations**:
 1. **C and C++ Specialization** - 1 course remaining  
 2. **Google Workspace Specialization** - 3 courses remaining
 
-Future plans include exploring more AI development courses, expanding to other platforms like Udemy and edX, and continuing to develop both technical programming skills and professional productivity capabilities.
+Future plans include exploring more AI development courses, expanding to other platforms like Oracle, AWS, Hackerrank etc..., and continuing to develop both technical programming skills and professional productivity capabilities.
 
 ---
 
 <div align="center">
   <i>✨ Always learning, always growing ✨</i>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff7f00&height=70&section=footer&animation=twinkling" alt="Capsule footer"/>
