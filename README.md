@@ -23,6 +23,17 @@
 
 ## 📚 Latest Achievements
 
+### 🤖 Learn to code with AI
+**Coursera • Scrimba** | *August 21, 2025* | **5 hour** | **Grade: 92.82%**
+
+<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~YFHNEWP0Z8GS/CERTIFICATE_LANDING_PAGE~YFHNEWP0Z8GS.jpeg" width="500" alt="GitHub Copilot Certificate"/>
+
+**Skills:** GitHub Copilot, AI Code Suggestions, Collaborative Development
+
+[🔗 View Certificate](https://coursera.org/share/eac74da628f38c1d22b97a33b0008998) | [📖 Course Info](https://www.coursera.org/learn/learn-to-code-with-ai)
+
+---
+
 ### 🤖 Vibe Coding with GitHub Copilot
 **Coursera • Scrimba** | *August 1, 2025* | **1 hour** | **Grade: 100%**
 
@@ -446,9 +457,9 @@
 ### **Vibe Coding Essentials - Build Apps with AI** *(Scrimba on Coursera)*
 - ✅ Vibe Coding with Cursor AI
 - ✅ Vibe Coding with GitHub Copilot  
-- ⏳ Learn to Code with AI *(Coming Soon)*
+- ✅ Learn to Code with AI
 
-**Progress:** 2/3 courses completed (66.67%)
+**Progress:** 3/3 courses completed (100%)
 
 ---
 
@@ -497,7 +508,7 @@
 - 📚 **Udemy Certificates:** 7
 - 📚 **Total Learning Hours:** 237+ hours
 - ⭐ **Overall Average Grade:** 95.64%
-- 🎯 **Active Specializations:** 4
+- 🎯 **Active Specializations:** 3
 - 🏆 **Perfect Scores:** 12 courses (100%)
 - 💻 **Programming Languages:** C, C++, Java, PHP, SQL, JavaScript, R
 - 🌐 **Web Technologies:** HTML, HTML5, CSS, JavaScript, Laravel, PHP OOP
@@ -512,11 +523,9 @@
 
 ## 🚀 What's Next
 
-Currently working on completing **four specializations**:
-1. **Vibe Coding Essentials** - 1 course remaining
-2. **C and C++ Specialization** - 1 course remaining  
-3. **Google Workspace Specialization** - 3 courses remaining
-4. **Web Design for Everybody** - 3 courses remaining
+Currently working on completing **three specializations**:
+1. **C and C++ Specialization** - 1 course remaining  
+2. **Google Workspace Specialization** - 3 courses remaining
 
 Future plans include exploring more AI development courses, expanding to other platforms like Udemy and edX, and continuing to develop both technical programming skills and professional productivity capabilities.
 
