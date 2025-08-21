@@ -506,7 +506,7 @@
 - 🎨 **Design Achievements:** 1
 - 🏢 **Forage Certificates:** 2
 - 📚 **Udemy Certificates:** 7
-- 📚 **Total Learning Hours:** 237+ hours
+- 📚 **Total Learning Hours:** 242+ hours
 - ⭐ **Overall Average Grade:** 95.64%
 - 🎯 **Active Specializations:** 3
 - 🏆 **Perfect Scores:** 12 courses (100%)
