@@ -22,7 +22,7 @@
 </div>
 <div align="center">
   <img src="./Hackerrank/Ruby/hackerrank_ruby_bronze_1_star_badge.svg" height="80" alt="HackerRank Ruby Bronze 1 Star Badge"/>
-  
+</div>
 <br>
 
 ## 📚 Latest Achievements
