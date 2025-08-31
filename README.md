@@ -14,12 +14,15 @@
 > Krutarth Raychura : [🔗 View Profile](https://www.hackerrank.com/profile/brucewaynes021)
 
 <div align="center">
-  <img src="./Hackerrank/hackerrank_python_bronze_1_star_badge.svg" height="80" alt="HackerRank Python Bronze 1 Star Badge"/>
-  <img src="./Hackerrank/hackerrank_python_bronze_2_star_badge.svg" height="80" alt="HackerRank Python Bronze 2 Star Badge"/>
-  <img src="./Hackerrank/hackerrank_python_sliver_3_star_badge.svg" height="80" alt="HackerRank Python Sliver 3 Star Badge"/>
-  <img src="./Hackerrank/hackerrank_python_sliver_4_star_badge.svg" height="80" alt="HackerRank Python Sliver 4 Star Badge"/>
-  <img src="./Hackerrank/hackerrank_python_gold_5_star_badge.svg" height="80" alt="HackerRank Python Gold 5 Star Badge"/>
+  <img src="./Hackerrank/Python/hackerrank_python_bronze_1_star_badge.svg" height="80" alt="HackerRank Python Bronze 1 Star Badge"/>
+  <img src="./Hackerrank/Python/hackerrank_python_bronze_2_star_badge.svg" height="80" alt="HackerRank Python Bronze 2 Star Badge"/>
+  <img src="./Hackerrank/Python/hackerrank_python_sliver_3_star_badge.svg" height="80" alt="HackerRank Python Sliver 3 Star Badge"/>
+  <img src="./Hackerrank/Python/hackerrank_python_sliver_4_star_badge.svg" height="80" alt="HackerRank Python Sliver 4 Star Badge"/>
+  <img src="./Hackerrank/Python/hackerrank_python_gold_5_star_badge.svg" height="80" alt="HackerRank Python Gold 5 Star Badge"/>
 </div>
+<div align="center">
+  <img src="./Hackerrank/Ruby/hackerrank_ruby_bronze_1_star_badge.svg" height="80" alt="HackerRank Ruby Bronze 1 Star Badge"/>
+  
 <br>
 
 ## 📚 Latest Achievements
