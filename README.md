@@ -25,6 +25,7 @@
   <img src="./Hackerrank/Ruby/hackerrank_ruby_bronze_2_star_badge.svg" height="80" alt="HackerRank Ruby Bronze 2 Star Badge"/>
   <img src="./Hackerrank/Ruby/hackerrank_ruby_sliver_3_star_badge.svg" height="80" alt="HackerRank Ruby Sliver 3 Star Badge"/>
   <img src="./Hackerrank/Ruby/hackerrank_ruby_sliver_4_star_badge.svg" height="80" alt="HackerRank Ruby Sliver 4 Star Badge"/>
+  <img src="./Hackerrank/Ruby/hackerrank_ruby_gold_5_star_badge.svg" height="80" alt="HackerRank Ruby Gold 5 Star Badge"/>
 </div>
 <br>
 
