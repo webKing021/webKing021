@@ -9,6 +9,21 @@
 </div>
 <br>
 
+## 🏅 Credly Certifications (Verified)
+
+<div align="center">
+  <a href="https://www.credly.com/users/krutarth-raychura" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/credly.svg" width="60" alt="Credly Profile"/>
+  </a>
+</div>
+
+<br>
+
+> 🔐 **All my certifications are officially verified on Credly**  
+> 👉 **[View my Credly Profile](https://www.credly.com/users/krutarth-raychura)**
+
+---
+
 ## 🏅 Hackerrank Badges
 
 > Krutarth Raychura : [🔗 View Profile](https://www.hackerrank.com/profile/brucewaynes021)
