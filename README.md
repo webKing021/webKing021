@@ -9,6 +9,21 @@
 </div>
 <br>
 
+## 🎮 Google Skills Arcade Profile
+
+<div align="center">
+  <a href="https://www.skills.google/public_profiles/eae4936a-483e-4cd8-ba03-359a48b2beae" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="160" alt="Google Skills Arcade Profile"/>
+  </a>
+</div>
+
+<br>
+
+> 🎯 **Hands-on learning and cloud skill development via Google Skills Arcade**  
+> 👉 **[View my Google Skills Arcade Profile](https://www.skills.google/public_profiles/eae4936a-483e-4cd8-ba03-359a48b2beae)**
+
+---
+
 ## 🏅 Credly Certifications (Verified)
 
 <div align="center">
