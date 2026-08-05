@@ -78,6 +78,34 @@
 | 🔤 **[Python String Operations](https://github.com/webKing021/String-Operation-Python)** | Interactive app for mastering Python string operations — 50+ methods, live examples, practice exercises and a responsive UI. |
 | 📚 **[Programming Commands Reference](https://github.com/webKing021/All-Programming-Languages-Commands)** | Comprehensive collection of commands, syntax references and snippets across languages, frameworks and tools. |
 
+### 🤝 Collaborations
+
+> These were built jointly with other developers. The commit history lives on my teammate's account because we developed on a shared machine, so it won't appear in my contribution graph — the scope of my own work is listed below and documented in the signed project report in this repo.
+
+🎬 **[BookMyMovie — Android Movie Ticket Booking App](https://github.com/Marvel939/BookMyMovie-Android)**
+*Kotlin · Android Studio · Firebase · REST APIs · TMDB API*
+
+A movie ticket booking platform for Android with separate user, theatre-owner and admin panels — seat selection, wallet and refunds, offers, wishlists, recommendations and an AI chat assistant.
+Semester 6 project at LJ College of Computer Applications, LJK University, built with **[Het Patel](https://github.com/Marvel939)**.
+
+<details>
+<summary><b>My contributions</b> — 30 components (click to expand)</summary>
+
+<br>
+
+| Area | Components I built |
+| :--- | :--- |
+| **User Features** | Cast & Crew Details · My Reviews · My Refunds · My Wallet · Edit Profile · Wishlist Management · Wishlist Detail · Recommendations System |
+| **Theatre Owner Panel** | Owner Authentication · Owner Schedule · Offer Creation Module · Showtime Request Processing |
+| **Admin Panel** | Admin Main Screen · Admin Requests · Offer Approval · Create Offers · Streaming Movie · Admin Profile |
+| **Backend & Logic** | Booking Record System · Offer Usage Tracking · Showtime Conflict Detection · Offer Approval Tracking · Screen Type Configuration |
+| **AI Chat Assistant** | Chat History Storage · Chat Session Management · Context Understanding |
+| **Notifications** | Email Notification Service · SMS Notification Service |
+
+📄 Full documentation: [BookMyMovie.pdf](./Project%20Documentations/BookMyMovie.pdf)
+
+</details>
+
 ---
 
 ## 🌐 Live Previews
