@@ -1,0 +1,19 @@
+# Superseded readme
+OLD-README.md
+
+# Internal notes / scratch
+Certificates/Hackerrank/hackerrank_badge_download_console_command.txt
+
+# Archives
+*.rar
+*.zip
+*.7z
+
+# OS / editor cruft
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*~
+.vscode/
+.idea/
