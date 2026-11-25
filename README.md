@@ -41,11 +41,11 @@
 
 | Project | What it does |
 | :--- | :--- |
-| 📝 **[QuizFlow](https://github.com/webKing021/Quiz-Management-System-Laravel)** | Anti-cheating examination & quiz management system. **Deployed at LJ University's Vastrapur campus, Ahmedabad** — used for internal, mid-semester, external and final-semester examinations. |
+| 📝 **QuizFlow** *(private repo)* | Anti-cheating examination & quiz management system. **Deployed at LJ University's Vastrapur campus, Ahmedabad** — used for internal, mid-semester, external and final-semester examinations. |
 | ⚡ **[VoltSpot](https://github.com/webKing021/VoltSpot-Ev-Charging-Station-Finder-and-Reservation-App-Expo)** | Mobile app for EV owners to find, compare and reserve charging stations in real time — location-based search, availability tracking and advance booking. |
 | 🧠 **[BrainFuel](https://github.com/webKing021/BrainFuel-AI-Django)** | AI-powered educational platform (Django) connecting students with teachers through course materials, study resources and interactive features. |
 | 🎮 **[EduQuest](https://github.com/webKing021/Digital-Learning-Platform-SIH-Hackathon-2025)** | Gamified digital learning platform for rural students of Nabha (Grades 6–12). Built for **Smart India Hackathon 2025** 🏆 — **Problem Statement ID: 25048.** |
-| 📰 **[Krutarth's AI News](https://github.com/webKing021/Krutarth-AI-News)** | Modern news platform covering AI, ML and developer tools with the latest insights, trends and educational content. **Built & Deployed.** |
+| 📰 **Krutarth's AI News** *(private repo)* | Modern news platform covering AI, ML and developer tools with the latest insights, trends and educational content. **Built & Deployed.** |
 
 ### 🛠️ Products — Built & Sold
 
@@ -67,9 +67,9 @@
 | 🎙️ **[VoiceFlow](https://github.com/webKing021/VoiceFlow-An-Automatic-NLP-Transcriber)** | Windows push-to-talk voice-to-text app that transcribes speech and injects it anywhere. 100% offline with Whisper. *(WisprFlow clone)* |
 | 🔳 **[QRCraft](https://github.com/webKing021/QRCraft-Generator)** | Free, permanent QR codes for Google Drive links and any URL — no sign-up, no expiration, no data stored. |
 | 🔢 **[Life in Numbers](https://github.com/webKing021/Life-In-Numbers-Django)** | Interactive Django app that calculates statistics about your life journey — heartbeats lived, sunsets seen, achievements unlocked. |
-| 📌 **[PinSight](https://github.com/webKing021/PinSight-Analytics-App)** | Track Pinterest performance beyond the 6-month limit with advanced pin analysis, URL traffic insights and board discovery. |
-| 📈 **[Pinterest Analytics Dashboard](https://github.com/webKing021/Pinterest-Analytics-Dashboard)** | Turns Pinterest Analytics CSVs into actionable insights with interactive dashboards, comparisons and exportable reports. |
-| 🔎 **[Pinterest Pin Scraper](https://github.com/webKing021/Pinterest-Pins-Scrapper)** | Web scraping tool for extracting data from Pinterest. |
+| 📌 **PinSight** *(private repo)* | Track Pinterest performance beyond the 6-month limit with advanced pin analysis, URL traffic insights and board discovery. |
+| 📈 **Pinterest Analytics Dashboard** *(private repo)* | Turns Pinterest Analytics CSVs into actionable insights with interactive dashboards, comparisons and exportable reports. |
+| 🔎 **Pinterest Pin Scraper** *(private repo)* | Web scraping tool for extracting data from Pinterest. |
 | 🤖 **[AI Interview Manager](https://github.com/webKing021/Ai-Interview-Manager-Flask)** | Flask app using Google's Gemini API to generate interview answers, with full CRUD for managing questions and answers. |
 | 🌱 **[Plant Disease Detection (Zapier)](https://github.com/webKing021/Plant-Disease-Detection-Zapier)** | HTML front end + Airtable API for image storage, with a Zapier agent that web-searches the disease information and writes results back to Airtable. |
 
@@ -77,7 +77,7 @@
 
 | Project | What it does |
 | :--- | :--- |
-| 🏛️ **[University Management System](https://github.com/webKing021/University-Management-System-Java)** | Java desktop ERP for university operations — student and teacher records, attendance, leaves, exams and report generation. |
+| 🏛️ **University Management System** *(private repo)* | Java desktop ERP for university operations — student and teacher records, attendance, leaves, exams and report generation. |
 | 📊 **[LJU Timetable Management System](https://github.com/webKing021/Timetable-Maker-University-Software-PHP)** | Web-based timetable system for L.J. University of Computer Application — class schedules, exam timetables, room allocation and faculty assignment. |
 | 📅 **[Exam Schedule Generator](https://github.com/webKing021/Exam-Schedule-Generator-Python-Jupyter)** | CUI application that generates optimized exam schedules with automatic room assignments. |
 | 🗓️ **[Timetable Generator](https://github.com/webKing021/Timetable-Generator-Python)** | Creates optimal, conflict-free timetables for educational institutions of all sizes. |
