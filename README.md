@@ -23,7 +23,7 @@
 
 - 🎓 **M.Sc. IT** at Dhirubhai Ambani University (formerly DA-IICT), Gandhinagar, 2026–28
 - 🥇 **B.Sc. IT**, LJ University, Ahmedabad: **9.60 CGPA**, 10.00 SPI in the final semester; gold medal to be conferred at the coming convocation
-- 🔬 Member of the **Research Club** and of **CINS**, the cyber security club, at DA-IICT
+- 🔬 Member of the **Research Club** and the **Cyber Information and Network Security (CINS) Club** at DA-IICT
 - 🔎 Interested in the security and reliability of AI systems, LLM evaluation, and small, fast software
 
 ---
