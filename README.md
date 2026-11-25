@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-Coming%20Soon-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/GitHub-@webKing021-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webKing021)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutarth-raychura-650513440)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brucewaynes021@gmail.com)
 
 <br>
@@ -22,7 +22,7 @@
 ## 👋 About
 
 - 🎓 **M.Sc. IT** at Dhirubhai Ambani University (formerly DA-IICT), Gandhinagar, 2026–28
-- 🥇 **B.Sc. IT Gold Medallist**, LJ University, Ahmedabad: **9.60 CGPA**, 10.00 SPI in the final semester
+- 🥇 **B.Sc. IT**, LJ University, Ahmedabad: **9.60 CGPA**, 10.00 SPI in the final semester; gold medal to be conferred at the coming convocation
 - 🔬 Member of the **Research Club** and of **CINS**, the cyber security club, at DA-IICT
 - 🔎 Interested in the security and reliability of AI systems, LLM evaluation, and small, fast software
 
@@ -41,7 +41,7 @@
 
 | Project | What it does |
 | :--- | :--- |
-| 📝 **[QuizFlow](https://github.com/webKing021/Quiz-Management-System-Laravel)** | Anti-cheating examination & quiz management system. **Deployed at LJ University, Ahmedabad** — used for internal, mid-semester, external and final-semester examinations. |
+| 📝 **[QuizFlow](https://github.com/webKing021/Quiz-Management-System-Laravel)** | Anti-cheating examination & quiz management system. **Deployed at LJ University's Vastrapur campus, Ahmedabad** — used for internal, mid-semester, external and final-semester examinations. |
 | ⚡ **[VoltSpot](https://github.com/webKing021/VoltSpot-Ev-Charging-Station-Finder-and-Reservation-App-Expo)** | Mobile app for EV owners to find, compare and reserve charging stations in real time — location-based search, availability tracking and advance booking. |
 | 🧠 **[BrainFuel](https://github.com/webKing021/BrainFuel-AI-Django)** | AI-powered educational platform (Django) connecting students with teachers through course materials, study resources and interactive features. |
 | 🎮 **[EduQuest](https://github.com/webKing021/Digital-Learning-Platform-SIH-Hackathon-2025)** | Gamified digital learning platform for rural students of Nabha (Grades 6–12). Built for **Smart India Hackathon 2025** 🏆 — **Problem Statement ID: 25048.** |
@@ -142,7 +142,7 @@ Semester 6 project at LJ College of Computer Applications, LJK University, built
 
 **▶️ Video Demos:** [Demo 1](https://www.youtube.com/watch?v=8DBqjWOkP4c) · [Demo 2](https://www.youtube.com/watch?v=gxLUEkpVXaM) · [Demo 3](https://www.youtube.com/watch?v=dXhbMFK8JHI)
 
-**🏫 On the university website:** [LJKU report on the AI-Powered Performance Marketing workshop](https://ljku.edu.in/ljsca-aipowered)
+**🏫 On the university website:** [LJKU report on the AI-Powered Performance Marketing workshop](https://ljku.edu.in/ljsca-aipowered) (I took part and am in the photos)
 
 ---
 
@@ -225,7 +225,6 @@ Published in the MBA & IFERP Abstract Book (2026) — **Page 71** · **ISBN 978-
 **2. Voice-Centric Analysis of Voice Assistants using Large Language Models: A Survey and Experimental Study**
 Presented at the 3rd International Conference on Modern Optimization and Technological Advancement for Resilient Smart Systems (**ICMOTARSS-2026**), 6–7 March 2026.
 Published in the IFERP Abstract Book (2026) — **Page 146** · **ISBN 978-81-993581-5-7**
-Submitted to a Scopus / Web of Science journal (2026) — **Status: Under Review**
 📄 [View Proceedings](https://cdn.iferp.in/conf-proceedings/2026/ICMOTARSS-2026Procedding.pdf)
 
 **3. Adversarial Attacks on Edge AI Models: A Comprehensive Survey of Threats, Defenses, and Open Challenges**
@@ -236,6 +235,9 @@ Submitted for publication (2026) — **Status: Under Review**
 
 **5. AI Edge Computing based Advanced Integrated Defense System (AIDS): A Systematic Review on National Security Implications**
 Submitted to Springer's SN Computer Science (2026) — **Status: Under Review**
+
+**6. The Digital Insider Threat: Security Vulnerabilities of Autonomous AI Employees — A Case Study of Recent AI-Agent Security Incidents**
+With Het Patel and two faculty co-authors (2026) — **Status: In Progress**
 
 ---
 
@@ -295,7 +297,7 @@ Submitted to Springer's SN Computer Science (2026) — **Status: Under Review**
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-Coming%20Soon-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krutarth%20Raychura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krutarth%20Raychura-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutarth-raychura-650513440)
 [![GitHub](https://img.shields.io/badge/GitHub-@webKing021-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/webKing021)
 [![Email](https://img.shields.io/badge/Email-brucewaynes021@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brucewaynes021@gmail.com)
 
