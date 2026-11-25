@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=200&section=header&text=Krutarth%20Raychura&fontSize=48&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=Full-Stack%20Developer%20%C2%B7%20Vibe%20Coder%20%C2%B7%20AI%20Powered%20Software%20Engineer&descSize=17&descAlignY=52" alt="Krutarth Raychura" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=200&section=header&text=Krutarth%20Raychura&fontSize=48&fontColor=ffffff&fontAlignY=34&animation=twinkling&desc=M.Sc.%20IT%20at%20DA-IICT%20%C2%B7%20Open-Source%20Developer%20%C2%B7%20AI-Assisted%20Builder&descSize=17&descAlignY=52" alt="Krutarth Raychura" />
 
 <div align="center">
 
@@ -19,7 +19,23 @@
 
 ---
 
+## 👋 About
+
+- 🎓 **M.Sc. IT** at Dhirubhai Ambani University (formerly DA-IICT), Gandhinagar, 2026–28
+- 🥇 **B.Sc. IT Gold Medallist**, LJ University, Ahmedabad: **9.60 CGPA**, 10.00 SPI in the final semester
+- 🔬 Member of the **Research Club** and of **CINS**, the cyber security club, at DA-IICT
+- 🔎 Interested in the security and reliability of AI systems, LLM evaluation, and small, fast software
+
+---
+
 ## 🚀 Projects
+
+### 🌟 Open Source — In Real Use
+
+| Project | What it does |
+| :--- | :--- |
+| 🔦 **[Paperlight](https://github.com/webKing021/paperlight)** | Finds any PDF, Word, Excel or PowerPoint file on your PC by its name, its folder or the words inside it. Rust + Tauri, ~5 MB installer, Windows and Linux (beta), MIT. **400+ downloads · 17 stars · 5 releases** · on winget: `winget install webKing021.Paperlight` · [Website](https://paperlight.vercel.app) |
+| 🤠 **[Dustfall](https://github.com/webKing021/dustfall)** | An original open-world western for the browser (Three.js + Vite). **6 forks.** |
 
 ### ⭐ Flagship — Presented at LJ Innovation Village 2026
 
@@ -112,6 +128,7 @@ Semester 6 project at LJ College of Computer Applications, LJK University, built
 
 | Project | Live Demo |
 | :--- | :--- |
+| Paperlight | [paperlight.vercel.app](https://paperlight.vercel.app) |
 | Krutarth's AI News | [krutarth-ai-news.vercel.app](https://krutarth-ai-news.vercel.app/) |
 | InspireBits | [inspirebits-website.vercel.app](https://inspirebits-website.vercel.app) |
 | QuizFlow | [quizflow-fbv2.netlify.app](https://quizflow-fbv2.netlify.app/) |
@@ -125,7 +142,7 @@ Semester 6 project at LJ College of Computer Applications, LJK University, built
 
 **▶️ Video Demos:** [Demo 1](https://www.youtube.com/watch?v=8DBqjWOkP4c) · [Demo 2](https://www.youtube.com/watch?v=gxLUEkpVXaM) · [Demo 3](https://www.youtube.com/watch?v=dXhbMFK8JHI)
 
-**🏫 University Website Feature:** [LJKU — AI Powered](https://ljku.edu.in/ljsca-aipowered)
+**🏫 On the university website:** [LJKU report on the AI-Powered Performance Marketing workshop](https://ljku.edu.in/ljsca-aipowered)
 
 ---
 
@@ -143,6 +160,7 @@ Semester 6 project at LJ College of Computer Applications, LJK University, built
 | **Databases** | MySQL (WAMP) · PostgreSQL · SQLite · Firebase |
 | **AI / ML** | OpenAI · Anthropic · Google AI |
 | **Mobile** | Android · Expo |
+| **Desktop** | Tauri · Rust |
 | **Version Control** | Git · GitHub · CodeRabbit |
 | **Error Monitoring** | Sentry |
 | **Tools** | Claude Code · Codex · Cursor AI · Gemini · GitHub Copilot |
@@ -205,7 +223,7 @@ Published in the MBA & IFERP Abstract Book (2026) — **Page 71** · **ISBN 978-
 📄 [View Proceedings](https://cdn.iferp.in/conf-proceedings/2026/ICETMP-26-LJK-University-India.pdf)
 
 **2. Voice-Centric Analysis of Voice Assistants using Large Language Models: A Survey and Experimental Study**
-Presented at the 3rd International Conference on Modern Optimization and Technological Advancement for Resilient Smart Systems (**ICMOTARSS-2026**), 4–6 March 2026.
+Presented at the 3rd International Conference on Modern Optimization and Technological Advancement for Resilient Smart Systems (**ICMOTARSS-2026**), 6–7 March 2026.
 Published in the IFERP Abstract Book (2026) — **Page 146** · **ISBN 978-81-993581-5-7**
 Submitted to a Scopus / Web of Science journal (2026) — **Status: Under Review**
 📄 [View Proceedings](https://cdn.iferp.in/conf-proceedings/2026/ICMOTARSS-2026Procedding.pdf)
@@ -227,7 +245,7 @@ Submitted to Springer's SN Computer Science (2026) — **Status: Under Review**
 2nd International Conference on Recent Advances in Engineering and Computer Applications (**ICRAECA 2025**), 24–25 January 2025.
 
 **2. Voice-Centric Analysis of Voice Assistants using Large Language Models**
-3rd International Conference on Modern Optimization and Technological Advancement for Resilient Smart Systems (**ICMOTARSS-2026**), 4–6 March 2026.
+3rd International Conference on Modern Optimization and Technological Advancement for Resilient Smart Systems (**ICMOTARSS-2026**), 6–7 March 2026.
 🥈 **Won ₹3,000 — 2nd Best Poster** among 150+ entries.
 
 ---
